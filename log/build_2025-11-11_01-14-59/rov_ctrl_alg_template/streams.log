@@ -1,0 +1,29 @@
+[0.686s] Invoking command in '/home/heidischan/rov_ws/build/rov_ctrl_alg_template': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/heidischan/rov_ws/build/rov_ctrl_alg_template/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/heidischan/rov_ws/install/rov_ctrl_alg_template/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/heidischan/rov_ws/build/rov_ctrl_alg_template/build --no-deps symlink_data
+[0.833s] running develop
+[0.902s] running egg_info
+[0.902s] creating rov_ctrl_alg_template.egg-info
+[0.909s] writing rov_ctrl_alg_template.egg-info/PKG-INFO
+[0.909s] writing dependency_links to rov_ctrl_alg_template.egg-info/dependency_links.txt
+[0.909s] writing entry points to rov_ctrl_alg_template.egg-info/entry_points.txt
+[0.909s] writing requirements to rov_ctrl_alg_template.egg-info/requires.txt
+[0.909s] writing top-level names to rov_ctrl_alg_template.egg-info/top_level.txt
+[0.909s] writing manifest file 'rov_ctrl_alg_template.egg-info/SOURCES.txt'
+[0.925s] reading manifest file 'rov_ctrl_alg_template.egg-info/SOURCES.txt'
+[0.926s] writing manifest file 'rov_ctrl_alg_template.egg-info/SOURCES.txt'
+[0.937s] running build_ext
+[0.937s] Creating /home/heidischan/rov_ws/install/rov_ctrl_alg_template/lib/python3.12/site-packages/rov-ctrl-alg-template.egg-link (link to .)
+[0.938s] Installing alg_runner script to /home/heidischan/rov_ws/install/rov_ctrl_alg_template/lib/rov_ctrl_alg_template
+[0.938s] Installing alg_runner_gmc script to /home/heidischan/rov_ws/install/rov_ctrl_alg_template/lib/rov_ctrl_alg_template
+[0.938s] 
+[0.938s] Installed /home/heidischan/rov_ws/build/rov_ctrl_alg_template
+[0.938s] running symlink_data
+[0.938s] creating /home/heidischan/rov_ws/install/rov_ctrl_alg_template/share/ament_index
+[0.938s] creating /home/heidischan/rov_ws/install/rov_ctrl_alg_template/share/ament_index/resource_index
+[0.938s] creating /home/heidischan/rov_ws/install/rov_ctrl_alg_template/share/ament_index/resource_index/packages
+[0.938s] symbolically linking /home/heidischan/rov_ws/build/rov_ctrl_alg_template/resource/rov_ctrl_alg_template -> /home/heidischan/rov_ws/install/rov_ctrl_alg_template/share/ament_index/resource_index/packages
+[0.938s] symbolically linking /home/heidischan/rov_ws/build/rov_ctrl_alg_template/package.xml -> /home/heidischan/rov_ws/install/rov_ctrl_alg_template/share/rov_ctrl_alg_template
+[0.938s] creating /home/heidischan/rov_ws/install/rov_ctrl_alg_template/share/rov_ctrl_alg_template/config
+[0.938s] symbolically linking /home/heidischan/rov_ws/build/rov_ctrl_alg_template/config/example_pid.yaml -> /home/heidischan/rov_ws/install/rov_ctrl_alg_template/share/rov_ctrl_alg_template/config
+[0.938s] creating /home/heidischan/rov_ws/install/rov_ctrl_alg_template/share/rov_ctrl_alg_template/launch
+[0.938s] symbolically linking /home/heidischan/rov_ws/build/rov_ctrl_alg_template/launch/algorithm_stack.launch.py -> /home/heidischan/rov_ws/install/rov_ctrl_alg_template/share/rov_ctrl_alg_template/launch
+[0.978s] Invoked command in '/home/heidischan/rov_ws/build/rov_ctrl_alg_template' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/heidischan/rov_ws/build/rov_ctrl_alg_template/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/heidischan/rov_ws/install/rov_ctrl_alg_template/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/heidischan/rov_ws/build/rov_ctrl_alg_template/build --no-deps symlink_data

@@ -1,0 +1,2 @@
+[console_scripts]
+simple_forward_demo = rov_ctrl_demos.nodes.simple_forward_demo:main

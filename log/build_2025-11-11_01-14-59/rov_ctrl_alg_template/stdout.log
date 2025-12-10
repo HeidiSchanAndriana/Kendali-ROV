@@ -1,0 +1,27 @@
+running develop
+running egg_info
+creating rov_ctrl_alg_template.egg-info
+writing rov_ctrl_alg_template.egg-info/PKG-INFO
+writing dependency_links to rov_ctrl_alg_template.egg-info/dependency_links.txt
+writing entry points to rov_ctrl_alg_template.egg-info/entry_points.txt
+writing requirements to rov_ctrl_alg_template.egg-info/requires.txt
+writing top-level names to rov_ctrl_alg_template.egg-info/top_level.txt
+writing manifest file 'rov_ctrl_alg_template.egg-info/SOURCES.txt'
+reading manifest file 'rov_ctrl_alg_template.egg-info/SOURCES.txt'
+writing manifest file 'rov_ctrl_alg_template.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/heidischan/rov_ws/install/rov_ctrl_alg_template/lib/python3.12/site-packages/rov-ctrl-alg-template.egg-link (link to .)
+Installing alg_runner script to /home/heidischan/rov_ws/install/rov_ctrl_alg_template/lib/rov_ctrl_alg_template
+Installing alg_runner_gmc script to /home/heidischan/rov_ws/install/rov_ctrl_alg_template/lib/rov_ctrl_alg_template
+
+Installed /home/heidischan/rov_ws/build/rov_ctrl_alg_template
+running symlink_data
+creating /home/heidischan/rov_ws/install/rov_ctrl_alg_template/share/ament_index
+creating /home/heidischan/rov_ws/install/rov_ctrl_alg_template/share/ament_index/resource_index
+creating /home/heidischan/rov_ws/install/rov_ctrl_alg_template/share/ament_index/resource_index/packages
+symbolically linking /home/heidischan/rov_ws/build/rov_ctrl_alg_template/resource/rov_ctrl_alg_template -> /home/heidischan/rov_ws/install/rov_ctrl_alg_template/share/ament_index/resource_index/packages
+symbolically linking /home/heidischan/rov_ws/build/rov_ctrl_alg_template/package.xml -> /home/heidischan/rov_ws/install/rov_ctrl_alg_template/share/rov_ctrl_alg_template
+creating /home/heidischan/rov_ws/install/rov_ctrl_alg_template/share/rov_ctrl_alg_template/config
+symbolically linking /home/heidischan/rov_ws/build/rov_ctrl_alg_template/config/example_pid.yaml -> /home/heidischan/rov_ws/install/rov_ctrl_alg_template/share/rov_ctrl_alg_template/config
+creating /home/heidischan/rov_ws/install/rov_ctrl_alg_template/share/rov_ctrl_alg_template/launch
+symbolically linking /home/heidischan/rov_ws/build/rov_ctrl_alg_template/launch/algorithm_stack.launch.py -> /home/heidischan/rov_ws/install/rov_ctrl_alg_template/share/rov_ctrl_alg_template/launch

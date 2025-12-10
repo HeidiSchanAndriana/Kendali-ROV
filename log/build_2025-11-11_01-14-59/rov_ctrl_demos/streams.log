@@ -1,0 +1,24 @@
+[0.670s] Invoking command in '/home/heidischan/rov_ws/build/rov_ctrl_demos': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/heidischan/rov_ws/build/rov_ctrl_demos/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/heidischan/rov_ws/install/rov_ctrl_demos/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/heidischan/rov_ws/build/rov_ctrl_demos/build --no-deps symlink_data
+[0.822s] running develop
+[0.891s] running egg_info
+[0.891s] creating rov_ctrl_demos.egg-info
+[0.898s] writing rov_ctrl_demos.egg-info/PKG-INFO
+[0.898s] writing dependency_links to rov_ctrl_demos.egg-info/dependency_links.txt
+[0.898s] writing entry points to rov_ctrl_demos.egg-info/entry_points.txt
+[0.898s] writing requirements to rov_ctrl_demos.egg-info/requires.txt
+[0.898s] writing top-level names to rov_ctrl_demos.egg-info/top_level.txt
+[0.898s] writing manifest file 'rov_ctrl_demos.egg-info/SOURCES.txt'
+[0.913s] reading manifest file 'rov_ctrl_demos.egg-info/SOURCES.txt'
+[0.913s] writing manifest file 'rov_ctrl_demos.egg-info/SOURCES.txt'
+[0.921s] running build_ext
+[0.921s] Creating /home/heidischan/rov_ws/install/rov_ctrl_demos/lib/python3.12/site-packages/rov-ctrl-demos.egg-link (link to .)
+[0.921s] Installing simple_forward_demo script to /home/heidischan/rov_ws/install/rov_ctrl_demos/lib/rov_ctrl_demos
+[0.921s] 
+[0.921s] Installed /home/heidischan/rov_ws/build/rov_ctrl_demos
+[0.921s] running symlink_data
+[0.921s] creating /home/heidischan/rov_ws/install/rov_ctrl_demos/share/ament_index
+[0.921s] creating /home/heidischan/rov_ws/install/rov_ctrl_demos/share/ament_index/resource_index
+[0.921s] creating /home/heidischan/rov_ws/install/rov_ctrl_demos/share/ament_index/resource_index/packages
+[0.921s] symbolically linking /home/heidischan/rov_ws/build/rov_ctrl_demos/resource/rov_ctrl_demos -> /home/heidischan/rov_ws/install/rov_ctrl_demos/share/ament_index/resource_index/packages
+[0.922s] symbolically linking /home/heidischan/rov_ws/build/rov_ctrl_demos/package.xml -> /home/heidischan/rov_ws/install/rov_ctrl_demos/share/rov_ctrl_demos
+[0.955s] Invoked command in '/home/heidischan/rov_ws/build/rov_ctrl_demos' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/heidischan/rov_ws/build/rov_ctrl_demos/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/heidischan/rov_ws/install/rov_ctrl_demos/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/heidischan/rov_ws/build/rov_ctrl_demos/build --no-deps symlink_data

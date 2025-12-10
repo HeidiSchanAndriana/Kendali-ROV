@@ -1,0 +1,6 @@
+alg_runner:
+  ros__parameters:
+    algorithm_class: "rov_ctrl_alg_template.algorithms.pid_hold_depth:PIDHoldDepth"
+    rate_hz: 20.0
+    cmd_topic: "/control/cmd"
+    params: "{\"kp\":0.8, \"ki\":0.0, \"kd\":0.05, \"setpoint\":0.0}"

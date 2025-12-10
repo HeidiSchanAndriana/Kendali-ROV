@@ -1,0 +1,6 @@
+control_mux:
+  ros__parameters:
+    ns: "/mavros/mavros_uas1"
+    cmd_topic: "/control/cmd"
+    enable_deadman: true
+    deadman_timeout: 1.0

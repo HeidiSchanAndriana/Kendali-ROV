@@ -1,0 +1,3 @@
+[console_scripts]
+alg_runner = rov_ctrl_alg_template.nodes.alg_runner:main
+alg_runner_gmc = rov_ctrl_alg_template.nodes.alg_runner_gmc:main

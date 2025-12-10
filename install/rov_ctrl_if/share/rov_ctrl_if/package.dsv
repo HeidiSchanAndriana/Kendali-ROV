@@ -1,0 +1,9 @@
+source;share/rov_ctrl_if/hook/pythonpath.ps1
+source;share/rov_ctrl_if/hook/pythonpath.dsv
+source;share/rov_ctrl_if/hook/pythonpath.sh
+source;share/rov_ctrl_if/hook/ament_prefix_path.ps1
+source;share/rov_ctrl_if/hook/ament_prefix_path.dsv
+source;share/rov_ctrl_if/hook/ament_prefix_path.sh
+source;../../build/rov_ctrl_if/share/rov_ctrl_if/hook/pythonpath_develop.ps1
+source;../../build/rov_ctrl_if/share/rov_ctrl_if/hook/pythonpath_develop.dsv
+source;../../build/rov_ctrl_if/share/rov_ctrl_if/hook/pythonpath_develop.sh

@@ -1,0 +1,28 @@
+[0.674s] Invoking command in '/home/heidischan/rov_ws/build/rov_ctrl_if': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/heidischan/rov_ws/build/rov_ctrl_if/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/heidischan/rov_ws/install/rov_ctrl_if/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/heidischan/rov_ws/build/rov_ctrl_if/build --no-deps symlink_data
+[0.816s] running develop
+[0.886s] running egg_info
+[0.886s] creating rov_ctrl_if.egg-info
+[0.893s] writing rov_ctrl_if.egg-info/PKG-INFO
+[0.893s] writing dependency_links to rov_ctrl_if.egg-info/dependency_links.txt
+[0.893s] writing entry points to rov_ctrl_if.egg-info/entry_points.txt
+[0.893s] writing requirements to rov_ctrl_if.egg-info/requires.txt
+[0.893s] writing top-level names to rov_ctrl_if.egg-info/top_level.txt
+[0.893s] writing manifest file 'rov_ctrl_if.egg-info/SOURCES.txt'
+[0.907s] reading manifest file 'rov_ctrl_if.egg-info/SOURCES.txt'
+[0.908s] writing manifest file 'rov_ctrl_if.egg-info/SOURCES.txt'
+[0.916s] running build_ext
+[0.916s] Creating /home/heidischan/rov_ws/install/rov_ctrl_if/lib/python3.12/site-packages/rov-ctrl-if.egg-link (link to .)
+[0.917s] Installing control_mux script to /home/heidischan/rov_ws/install/rov_ctrl_if/lib/rov_ctrl_if
+[0.917s] 
+[0.917s] Installed /home/heidischan/rov_ws/build/rov_ctrl_if
+[0.917s] running symlink_data
+[0.917s] creating /home/heidischan/rov_ws/install/rov_ctrl_if/share/ament_index
+[0.917s] creating /home/heidischan/rov_ws/install/rov_ctrl_if/share/ament_index/resource_index
+[0.917s] creating /home/heidischan/rov_ws/install/rov_ctrl_if/share/ament_index/resource_index/packages
+[0.917s] symbolically linking /home/heidischan/rov_ws/build/rov_ctrl_if/resource/rov_ctrl_if -> /home/heidischan/rov_ws/install/rov_ctrl_if/share/ament_index/resource_index/packages
+[0.917s] symbolically linking /home/heidischan/rov_ws/build/rov_ctrl_if/package.xml -> /home/heidischan/rov_ws/install/rov_ctrl_if/share/rov_ctrl_if
+[0.917s] creating /home/heidischan/rov_ws/install/rov_ctrl_if/share/rov_ctrl_if/launch
+[0.917s] symbolically linking /home/heidischan/rov_ws/build/rov_ctrl_if/launch/control_stack.launch.py -> /home/heidischan/rov_ws/install/rov_ctrl_if/share/rov_ctrl_if/launch
+[0.917s] creating /home/heidischan/rov_ws/install/rov_ctrl_if/share/rov_ctrl_if/config
+[0.918s] symbolically linking /home/heidischan/rov_ws/build/rov_ctrl_if/config/control_mux.yaml -> /home/heidischan/rov_ws/install/rov_ctrl_if/share/rov_ctrl_if/config
+[0.959s] Invoked command in '/home/heidischan/rov_ws/build/rov_ctrl_if' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/heidischan/rov_ws/build/rov_ctrl_if/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/heidischan/rov_ws/install/rov_ctrl_if/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/heidischan/rov_ws/build/rov_ctrl_if/build --no-deps symlink_data

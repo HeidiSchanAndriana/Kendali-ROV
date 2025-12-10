@@ -1,0 +1,9 @@
+mavros:
+  ros__parameters:
+    fcu_url: "udp://:14560@"
+    system_id: 255
+    component_id: 191
+    target_system_id: 1
+    target_component_id: 1
+    conn_heartbeat: 1.0
+    conn_timeout: 10.0

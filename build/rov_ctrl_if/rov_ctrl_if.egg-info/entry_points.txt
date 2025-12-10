@@ -1,0 +1,2 @@
+[console_scripts]
+control_mux = rov_ctrl_if.nodes.control_mux:main

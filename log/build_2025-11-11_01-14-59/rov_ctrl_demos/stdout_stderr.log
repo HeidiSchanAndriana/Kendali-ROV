@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating rov_ctrl_demos.egg-info
+writing rov_ctrl_demos.egg-info/PKG-INFO
+writing dependency_links to rov_ctrl_demos.egg-info/dependency_links.txt
+writing entry points to rov_ctrl_demos.egg-info/entry_points.txt
+writing requirements to rov_ctrl_demos.egg-info/requires.txt
+writing top-level names to rov_ctrl_demos.egg-info/top_level.txt
+writing manifest file 'rov_ctrl_demos.egg-info/SOURCES.txt'
+reading manifest file 'rov_ctrl_demos.egg-info/SOURCES.txt'
+writing manifest file 'rov_ctrl_demos.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/heidischan/rov_ws/install/rov_ctrl_demos/lib/python3.12/site-packages/rov-ctrl-demos.egg-link (link to .)
+Installing simple_forward_demo script to /home/heidischan/rov_ws/install/rov_ctrl_demos/lib/rov_ctrl_demos
+
+Installed /home/heidischan/rov_ws/build/rov_ctrl_demos
+running symlink_data
+creating /home/heidischan/rov_ws/install/rov_ctrl_demos/share/ament_index
+creating /home/heidischan/rov_ws/install/rov_ctrl_demos/share/ament_index/resource_index
+creating /home/heidischan/rov_ws/install/rov_ctrl_demos/share/ament_index/resource_index/packages
+symbolically linking /home/heidischan/rov_ws/build/rov_ctrl_demos/resource/rov_ctrl_demos -> /home/heidischan/rov_ws/install/rov_ctrl_demos/share/ament_index/resource_index/packages
+symbolically linking /home/heidischan/rov_ws/build/rov_ctrl_demos/package.xml -> /home/heidischan/rov_ws/install/rov_ctrl_demos/share/rov_ctrl_demos

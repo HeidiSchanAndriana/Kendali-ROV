@@ -1,0 +1,4 @@
+[console_scripts]
+manual_control_node = rov_ctrl_core.nodes.manual_control_node:main
+mode_arming_node = rov_ctrl_core.nodes.mode_arming_node:main
+safety_failsafe_node = rov_ctrl_core.nodes.safety_failsafe_node:main

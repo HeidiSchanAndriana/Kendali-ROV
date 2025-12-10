@@ -1,0 +1,26 @@
+running develop
+running egg_info
+creating rov_ctrl_if.egg-info
+writing rov_ctrl_if.egg-info/PKG-INFO
+writing dependency_links to rov_ctrl_if.egg-info/dependency_links.txt
+writing entry points to rov_ctrl_if.egg-info/entry_points.txt
+writing requirements to rov_ctrl_if.egg-info/requires.txt
+writing top-level names to rov_ctrl_if.egg-info/top_level.txt
+writing manifest file 'rov_ctrl_if.egg-info/SOURCES.txt'
+reading manifest file 'rov_ctrl_if.egg-info/SOURCES.txt'
+writing manifest file 'rov_ctrl_if.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/heidischan/rov_ws/install/rov_ctrl_if/lib/python3.12/site-packages/rov-ctrl-if.egg-link (link to .)
+Installing control_mux script to /home/heidischan/rov_ws/install/rov_ctrl_if/lib/rov_ctrl_if
+
+Installed /home/heidischan/rov_ws/build/rov_ctrl_if
+running symlink_data
+creating /home/heidischan/rov_ws/install/rov_ctrl_if/share/ament_index
+creating /home/heidischan/rov_ws/install/rov_ctrl_if/share/ament_index/resource_index
+creating /home/heidischan/rov_ws/install/rov_ctrl_if/share/ament_index/resource_index/packages
+symbolically linking /home/heidischan/rov_ws/build/rov_ctrl_if/resource/rov_ctrl_if -> /home/heidischan/rov_ws/install/rov_ctrl_if/share/ament_index/resource_index/packages
+symbolically linking /home/heidischan/rov_ws/build/rov_ctrl_if/package.xml -> /home/heidischan/rov_ws/install/rov_ctrl_if/share/rov_ctrl_if
+creating /home/heidischan/rov_ws/install/rov_ctrl_if/share/rov_ctrl_if/launch
+symbolically linking /home/heidischan/rov_ws/build/rov_ctrl_if/launch/control_stack.launch.py -> /home/heidischan/rov_ws/install/rov_ctrl_if/share/rov_ctrl_if/launch
+creating /home/heidischan/rov_ws/install/rov_ctrl_if/share/rov_ctrl_if/config
+symbolically linking /home/heidischan/rov_ws/build/rov_ctrl_if/config/control_mux.yaml -> /home/heidischan/rov_ws/install/rov_ctrl_if/share/rov_ctrl_if/config
